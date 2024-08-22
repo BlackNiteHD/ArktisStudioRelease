@@ -1,2 +1,2 @@
 <img src="banner.png">
-<center>DERNIÈRES RELEASES</center>
+<h1>DERNIÈRES RELEASES</h1>
